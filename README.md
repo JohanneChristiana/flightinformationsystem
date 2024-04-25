@@ -8,23 +8,22 @@ No installation necessary as this is a Java project. However, ensure you have Ja
 3. Usage instructions
 After compiling the Flight.java, FlightTester.java and Form1.java files, run the program. It will prompt you to input flight details and decide if you would want to sort them by flight number.
 
-4. Description of technologies and tools used.
-Java: The programming language used to develop the Flight Information System. https://www.oracle.com/java/technologies/downloads/
-JGrasp: The Integrated Development Environment (IDE) used for writing, compiling, and debugging the Java code. https://www.jgrasp.org/
-Java Imports found below:
-• Scanner: For user inputs. https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
-• LocalTime: Used from the java.time package to represent the departure and arrival times. https://docs.oracle.com/javase/8/docs/api/java/time/LocalTime.html
-• Arrays: USed for storing flight objects and sorting them. https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html
-• Comparator: Used for sorting flights based on flight numbers. https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html
+4. Description of technologies and tools used.<br/>
+Java: The programming language used to develop the Flight Information System. [Link](https://www.oracle.com/java/technologies/downloads/)<br/>
+JGrasp: The Integrated Development Environment (IDE) used for writing, compiling, and debugging the Java code. [Link](https://www.jgrasp.org/)<br/>
+Java Imports found below:<br/>
+• Scanner: For user inputs. [Link](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)<br/>
+• LocalTime: Used from the java.time package to represent the departure and arrival times. [Link](https://docs.oracle.com/javase/8/docs/api/java/time/LocalTime.html)<br/>
+• Arrays: USed for storing flight objects and sorting them.[Link](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)<br/>
+• Comparator: Used for sorting flights based on flight numbers. [Link](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)<br/>
+• javax.swing: [Link](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html)<br/>
+• java.awt: [Link](https://docs.oracle.com/javase/8/docs/api/java/awt/package-summary.html)<br/>
+• java.awt.event: [Link](https://docs.oracle.com/javase/8/docs/api/java/awt/event/package-summary.html)<br/>
 
-• javax.swing: https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html
-• java.awt: https://docs.oracle.com/javase/8/docs/api/java/awt/package-summary.html
-• java.awt.event: https://docs.oracle.com/javase/8/docs/api/java/awt/event/package-summary.html
-
-5. Link to the UML diagram
-Draw.io used to create UML Diagram: https://drive.google.com/file/d/1oiwQ56wO0bhfsZ5yRjKgW3dPK93UURkt/view?usp=sharing
+5. Link to the UML diagram<br/>
+Draw.io used to create UML Diagram: [Link](https://drive.google.com/file/d/1oiwQ56wO0bhfsZ5yRjKgW3dPK93UURkt/view?usp=sharing)<br/>
 
 6. Credits to external sources
-• Java Platform, Standard Edition Java API Reference. (n.d.). Docs.oracle.com. https://docs.oracle.com/en/java/javase/15/docs/api/index.html 
-• Subramani, S. (2024). NIT2112 Object-Oriented Programming. Victoria University.
-• W3schools. (2019). Java Tutorial. W3schools.com. https://www.w3schools.com/java/default.asp 
+• Java Platform, Standard Edition Java API Reference. (n.d.). Docs.oracle.com. [Link](https://docs.oracle.com/en/java/javase/15/docs/api/index.html)<br/>
+• Subramani, S. (2024). NIT2112 Object-Oriented Programming. Victoria University.<br/>
+• W3schools. (2019). Java Tutorial. W3schools.com. [Link](https://www.w3schools.com/java/default.asp)<br/>
