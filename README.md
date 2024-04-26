@@ -2,10 +2,12 @@
 ## Preview
 ### 📌 Flight <br/>
 Entering details in CLI 
+
 ![image_2](https://github.com/JohanneChristiana/flightinformationsystem/assets/113961547/b85a8a88-d443-4268-a0ff-9a3f2b5ff28a)
 
 ### 📌 FlightTester <br/>
-Using the toSort() method the flight will be sorted based on the first letter of the flight number. This displays the pre-sorted and sorted flight information.
+Using the toSort() method the flight will be sorted based on the first letter of the flight number. This displays the pre-sorted and sorted flight information. 
+
 ![image_1](https://github.com/JohanneChristiana/flightinformationsystem/assets/113961547/81a22a12-e129-4ebf-b86c-fb3fd2e11022)
 
 ### 📌 Form <br/>
