@@ -28,18 +28,19 @@ After compiling the Flight.java, FlightTester.java and Form1.java files, run the
 Java: The programming language used to develop the Flight Information System. [Link](https://www.oracle.com/java/technologies/downloads/)<br/>
 JGrasp: The Integrated Development Environment (IDE) used for writing, compiling, and debugging the Java code. [Link](https://www.jgrasp.org/)<br/>
 Java Imports found below:<br/>
-• Scanner: For user inputs. [Link](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)<br/>
-• LocalTime: Used from the java.time package to represent the departure and arrival times. [Link](https://docs.oracle.com/javase/8/docs/api/java/time/LocalTime.html)<br/>
-• Arrays: USed for storing flight objects and sorting them.[Link](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)<br/>
-• Comparator: Used for sorting flights based on flight numbers. [Link](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)<br/>
-• javax.swing: [Link](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html)<br/>
-• java.awt: [Link](https://docs.oracle.com/javase/8/docs/api/java/awt/package-summary.html)<br/>
-• java.awt.event: [Link](https://docs.oracle.com/javase/8/docs/api/java/awt/event/package-summary.html)<br/>
+• [Scanner](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html): For user inputs. <br/>
+• [LocalTime](https://docs.oracle.com/javase/8/docs/api/java/time/LocalTime.html): Used from the java.time package to represent the departure and arrival times. <br/>
+• [Arrays](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html): USed for storing flight objects and sorting them. <br/>
+• [Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html): Used for sorting flights based on flight numbers. <br/>
+• [javax.swing](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html): used to create window-based applications. <br/>
+• [java.awt](https://docs.oracle.com/javase/8/docs/api/java/awt/package-summary.html): API to develop Graphical User Interface (GUI) <br/>
+• [java.awt.event](https://docs.oracle.com/javase/8/docs/api/java/awt/event/package-summary.html): Provides interfaces and classes for dealing with different types of events fired by AWT components <br/>
 
 ### 5. Link to the UML diagram<br/>
 Draw.io used to create UML Diagram: [Link](https://drive.google.com/file/d/1oiwQ56wO0bhfsZ5yRjKgW3dPK93UURkt/view?usp=sharing)<br/>
 
 ### 6. Credits to external sources<br/>
 • Java Platform, Standard Edition Java API Reference. (n.d.). Docs.oracle.com. [Link](https://docs.oracle.com/en/java/javase/15/docs/api/index.html)<br/>
+• Javatpoint, Java Tutorial. (n.d.). javatpoint.com. [Link](https://www.javatpoint.com/java-tutorial)<br/>
 • Subramani, S. (2024). NIT2112 Object-Oriented Programming. Victoria University.<br/>
 • W3schools. (2019). Java Tutorial. W3schools.com. [Link](https://www.w3schools.com/java/default.asp)<br/>
